@@ -1,0 +1,76 @@
+{
+  "suites": [
+    {
+      "description": null,
+      "duration": 120,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_failed.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117055595,
+      "status": null,
+      "stop": 1637117055715,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "d112c9d5-d35d-420d-83e8-3aa42930fe60"
+    },
+    {
+      "description": null,
+      "duration": 480,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_four.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117055717,
+      "status": null,
+      "stop": 1637117056197,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "b631b41b-ffb0-455e-874f-a6df655fbf3d"
+    },
+    {
+      "description": null,
+      "duration": 498,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_one.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117056199,
+      "status": null,
+      "stop": 1637117056697,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "73c74b07-4728-4013-9dbb-793d9bede086"
+    },
+    {
+      "description": null,
+      "duration": 1,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_passed.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117056699,
+      "status": null,
+      "stop": 1637117056700,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "90838509-a8a2-4631-8832-96fa6b6576d7"
+    },
+    {
+      "description": null,
+      "duration": 527,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_three.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117056702,
+      "status": null,
+      "stop": 1637117057229,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "abda88a4-3723-461d-9da9-86c9664af514"
+    },
+    {
+      "description": null,
+      "duration": 478,
+      "host": "C02DV9Y1ML7H.local",
+      "name": "test_two.py",
+      "parentUuid": "15079666-1306-4c86-9be7-5f0583e1989c",
+      "start": 1637117057231,
+      "status": null,
+      "stop": 1637117057709,
+      "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+      "uuid": "6bce3e44-722d-4439-b1d5-e3a1501a8c2d"
+    }
+  ]
+}

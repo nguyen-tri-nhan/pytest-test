@@ -1,0 +1,7 @@
+{
+   "apiKey": "812c5bc1-0ac5-421a-89fe-3a2dac74b01c",
+   "projectId": "4",
+   "reportFolder": "testops-report",
+   "basePath" : "http://10.62.49.217",
+   "buildLabel": "Test Run Coverage"
+}

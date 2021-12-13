@@ -1,0 +1,10 @@
+{
+  "duration": 2259,
+  "host": "C02DV9Y1ML7H.local",
+  "parentUuid": null,
+  "start": 1637117055456,
+  "status": "FAILED",
+  "stop": 1637117057715,
+  "thread": "C02DV9Y1ML7H.local.MainThread(4643372544)",
+  "uuid": "15079666-1306-4c86-9be7-5f0583e1989c"
+}
