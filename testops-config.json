@@ -1,8 +1,0 @@
-{
-   "apiKey": "ce68bff5-72d3-4516-a635-c71859189899",
-   "projectId": "197859",
-   "reportFolder": "testops-report",
-   "basePath" : "https://testops.staging.katalon.com",
-   "buildLabel": "Pytest",
-   "buildUrl": "https://www.youtube.com"
-}

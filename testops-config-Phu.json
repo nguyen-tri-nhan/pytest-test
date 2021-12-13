@@ -1,7 +1,0 @@
-{
-   "apiKey": "6f291c6f-8644-4f90-8286-cd67b6514723",
-   "projectId": "68779",
-   "reportFolder": "testops-report",
-   "basePath" : "https://testops.staging.katalon.com",
-   "buildLabel": "Test Run Coverage"
-}
